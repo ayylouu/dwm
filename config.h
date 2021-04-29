@@ -7,7 +7,7 @@ static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
 static int swallowfloating          = 0;
 int gappx                           = 2;
-static const char *fonts[]          = { "monospace:size=10", "JoyPixels:pixelsize=15:antialias=true:autohint=true"  };
+static const char *fonts[]          = { "monospace:size=8", "JoyPixels:pixelsize=15:antialias=true:autohint=true"  };
 static const char dmenufont[]       = { "monospace:size=10" };
 static const char col_gray1[]       = "#222222";
 static const char col_gray2[]       = "#444444";
@@ -18,7 +18,7 @@ static const char border[]          = "#924441";
 static const char *colors[][3]      = {
 	/*               fg         bg         border   */
 	[SchemeNorm] = { col_gray3, col_gray1, col_gray2 },
-	[SchemeSel]  = { col_gray4, border,    border 	 },
+	[SchemeSel]  = { col_gray4, col_cyan,  border 	 },
 };
 
 /* tagging */
