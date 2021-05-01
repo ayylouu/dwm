@@ -6,8 +6,8 @@
 
 ### Features
 
-+ Status bar with my build of [dwmblocks] (https://github.com/ayylouu/dwmblocks)
-+ **no keybindings for programs** I use [sxhkd] (https://github.com/baskerville/sxhkd/) for that [my sxhkd config] (https://github.com/ayylouu/dotfiles/tree/master/.config/sxhkd)
++ Status bar with my build of [dwmblocks](https://github.com/ayylouu/dwmblocks)
++ **no keybindings for programs** I use [sxhkd](https://github.com/baskerville/sxhkd/) for that [my sxhkd config](https://github.com/ayylouu/dotfiles/tree/master/.config/sxhkd)
 
 ### Patches
 
