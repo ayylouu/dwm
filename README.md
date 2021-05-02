@@ -1,6 +1,6 @@
 # My build of dwm
 
-[dwm] (https://dwm.suckless.org/) is a dynamic window manager for X. 
+[dwm](https://dwm.suckless.org/) is a dynamic window manager for X. 
 
 ## Features and patches
 
