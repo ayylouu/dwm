@@ -14,7 +14,8 @@
 + **swallow** Clients marked with `isterminal` in config.h swallow a window opened by any child process
 + **actualfullscreen** Full screen with `super+shift+f`
 + **fullgaps** adds gap between client windows. `super+shift+p`/`super+p` to increase/decrease gaps with
-**movestack** move clients around in the stack with `super+shift+j` and `super+shift+k`
++ **movestack** move clients around in the stack with `super+shift+j` and `super+shift+k`
++ **statuscmd** for a clickable status bar
 
 ## Installation
 
